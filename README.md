@@ -1,4 +1,4 @@
-<h1 align="center">Instraction</h1>
+<h1 align="center">Instruction</h1>
 <h3 align="center">1. Create virtual env (python 3.11.5)</h3>
 <h3 align="center">2. Activate virtual env</h3>
 <h3 align="center">3. Install requirements (pip install -r requirements.text) </h3>
